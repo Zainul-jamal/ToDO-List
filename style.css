@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(4, 29,29);
+    font-family: 'Tangerine', serif;
+
+}
+.container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: rgba(38, 99, 125, 0.552);
+    margin-left: 33%;
+    margin-top: 5px;
+    border-style: dashed;
+   
+}
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(6, 145, 145);
+    outline: none;
+    font-size: 19px;
+    font-family: 'Tangerine', serif;
+
+}
+button{
+    width: 60px;
+    height: 41px;
+    background-color: black;
+    color: white;
+    border-radius: 2px;
+    font-size: 19px;
+    border: none;
+    outline: none;
+    font-family: 'Tangerine', serif;
+cursor: pointer;
+}
+.text ul{
+     position: relative;
+     background-color: rgb(5, 31, 31);
+     color: white;
+     font-size: 19px;
+     text-align: left;
+     height: 25px;
+}
+.text ul i{
+    position: absolute;
+    right: 10px;
+    top: 2px;
+    cursor: pointer;
+}
